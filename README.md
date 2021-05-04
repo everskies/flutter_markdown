@@ -1,3 +1,10 @@
+# Moved
+
+This repository is no longer used. The `flutter_markdown` package has moved to
+[flutter/packages](https://github.com/flutter/packages/tree/master/packages/flutter_markdown).
+
+---
+
 # Flutter Markdown
 [![pub package](https://img.shields.io/pub/v/flutter_markdown.svg)](https://pub.dartlang.org/packages/flutter_markdown) 
 [![Build Status](https://github.com/flutter/flutter_markdown/workflows/flutter_markdown/badge.svg)](https://github.com/flutter/flutter_markdown/actions?workflow=flutter_markdown)
